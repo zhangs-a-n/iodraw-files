@@ -67,8 +67,8 @@
             <mxPoint x="6420" y="5020" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KXVOHivt3HsErKGYQMSM-21" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="4905" y="4818" width="50" height="30" as="geometry" />
+        <mxCell id="KXVOHivt3HsErKGYQMSM-21" value="self.task=&lt;div&gt;key=&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4895" y="4813" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
