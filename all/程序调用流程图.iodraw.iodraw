@@ -20,11 +20,9 @@
             <mxPoint x="150" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="model&#xa;&#39;ultralytics/cfg/models/11/yolo11-EMBSFPN.yaml&#39;&#xa;task&#xa;verbose&#xa;False" link="model&#xa;&#39;ultralytics/cfg/models/11/yolo11-EMBSFPN.yaml&#39;&#xa;task&#xa;verbose&#xa;False" id="KXVOHivt3HsErKGYQMSM-9">
-          <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
-            <mxGeometry x="770" y="930" width="290" height="100" as="geometry" />
-          </mxCell>
-        </UserObject>
+        <mxCell id="KXVOHivt3HsErKGYQMSM-10" value="model" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="780" y="910" width="70" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
