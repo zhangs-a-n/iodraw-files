@@ -28,7 +28,7 @@
             <mxGeometry x="2360" y="910" width="1040" height="2600" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="KXVOHivt3HsErKGYQMSM-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.639;exitY=0.933;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="KXVOHivt3HsErKGYQMSM-3">
+        <mxCell id="KXVOHivt3HsErKGYQMSM-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.639;exitY=0.933;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.001;entryY=0.466;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="KXVOHivt3HsErKGYQMSM-3" target="KXVOHivt3HsErKGYQMSM-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1530" y="1120" as="sourcePoint" />
             <mxPoint x="2354.4657175164475" y="2170" as="targetPoint" />
