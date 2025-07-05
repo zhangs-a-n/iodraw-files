@@ -46,8 +46,8 @@
             <mxPoint x="3190" y="3620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KXVOHivt3HsErKGYQMSM-16" value="cfg_dict存储了EMBSPFN.yaml中的相关内容" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="3390" y="3928" width="260" height="30" as="geometry" />
+        <mxCell id="KXVOHivt3HsErKGYQMSM-16" value="cfg_dict存储了EMBSPFN.yaml中的相关内容" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="3390" y="3928" width="300" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
