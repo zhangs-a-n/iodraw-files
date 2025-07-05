@@ -20,11 +20,6 @@
             <mxPoint x="150" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="type(Path)&#xa;&lt;class &#39;type&#39;&gt;&#xa;type(path)&#xa;&lt;class &#39;pathlib.PosixPath&#39;&gt;&#xa;type(model)&#xa;&lt;class &#39;str&#39;&gt;&#xa;special variables:&#xa;function variables:&#xa;model&#xa;&#39;ultralytics/cfg/models/11/yolo11-EMBSFPN.yaml&#39;&#xa;task&#xa;&#xa;&#xa;verbose&#xa;False" link="type(Path)&#xa;&lt;class &#39;type&#39;&gt;&#xa;type(path)&#xa;&lt;class &#39;pathlib.PosixPath&#39;&gt;&#xa;type(model)&#xa;&lt;class &#39;str&#39;&gt;&#xa;special variables:&#xa;function variables:&#xa;model&#xa;&#39;ultralytics/cfg/models/11/yolo11-EMBSFPN.yaml&#39;&#xa;task&#xa;&#xa;&#xa;verbose&#xa;False" id="KXVOHivt3HsErKGYQMSM-8">
-          <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
-            <mxGeometry x="770" y="970" width="290" height="240" as="geometry" />
-          </mxCell>
-        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
