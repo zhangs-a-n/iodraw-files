@@ -21,7 +21,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KXVOHivt3HsErKGYQMSM-10" value="model=&#39;ultralytics/cfg/models/11/yolo11-EMBSFPN.yaml&#39;" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="610" y="910" width="330" height="60" as="geometry" />
+          <mxGeometry x="690" y="920" width="350" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
