@@ -31,7 +31,7 @@
         <mxCell id="KXVOHivt3HsErKGYQMSM-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.639;exitY=0.933;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="KXVOHivt3HsErKGYQMSM-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1530" y="1120" as="sourcePoint" />
-            <mxPoint x="1580" y="1070" as="targetPoint" />
+            <mxPoint x="2360" y="2230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
